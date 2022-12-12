@@ -72,7 +72,7 @@ margin:5px;
 <li><a href="tourism.html">Tourism<br><img src="https://www.freeiconspng.com/thumbs/travel-icon/travel-guide-icon-map-ticket-travel-icon-17.png"></img></a></li>
 <li><a href="important.html">Important Figures<br><img src="https://static.thenounproject.com/png/99330-200.png"></img></a></li>
 <li style="background-color:#ffa927;"><a href="homepage.html"><p style="font-size:50px;margin-top:17px;">Yuastin</p></a></li>
-<li><a href="Services.html">Services<br><img src="https://cdn-icons-png.flaticon.com/512/2720/2720641.png"></img></a></li>
+<li><a href="services.html">Services<br><img src="https://cdn-icons-png.flaticon.com/512/2720/2720641.png"></img></a></li>
 <li><a href="location.html">Locations<br><img src="https://www.iconpacks.net/icons/2/free-location-pointer-icon-2961-thumb.png"></img></a></li>
 <li><a href="follow.html">Be Updated<br><img style="height:48%;" src="https://cdn-icons-png.flaticon.com/512/6081/6081005.png"></img><br>Follow Us</a></li>
 </center>
